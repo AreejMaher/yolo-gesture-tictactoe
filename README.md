@@ -2,7 +2,7 @@
 
 This project presents a real-time, interactive Tic-Tac-Toe game where players use hand gestures as input. The system is powered by a custom-trained YOLOv5 object detection model that recognizes specific gestures for the "X" and "O" moves.
 
-![Tic-Tac-Toe Demo](media/tictactoe-demo.mov)
+![Tic-Tac-Toe Demo](media/tictactoe-demo.gif)
 
 ## ✨ Key Features
 
